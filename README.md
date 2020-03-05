@@ -1,0 +1,2 @@
+# JavaStarterProject
+First school task.
